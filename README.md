@@ -43,14 +43,14 @@ TicTicketic introduces a blockchain-based REST API for film ticket reservations,
 
 ## Project structure
     Ticticketic
-    ├── api
-    │   ├── config
-    │   ├── controller
-    │   ├── models
-    │   └── route
     ├── contract
     ├── scripts
-    └── test    
+    ├── test
+    └── api
+        ├── config
+        ├── controller
+        ├── models
+        └── route
 
 ## How to Run?
 1. Clone this repository
