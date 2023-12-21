@@ -18,7 +18,7 @@ TicTicketic introduces a blockchain-based REST API for film ticket reservations,
    - *Description:* Conducting transactions using Ethereum (ETH) as the native cryptocurrency on the blockchain.
    - *Purpose:* Facilitating seamless and decentralized transactions with the use of Ether, providing a standard and widely accepted medium for financial interactions.
 
-## Off-chain:**
+## Off-chain:
 1. **Database Storing Movie Details (Genre, Time, Title) in MongoDB:**
    - *Description:* Storing additional movie details such as genre, screening time, and title in an off-chain MongoDB database.
    - *Purpose:* Utilizing MongoDB's flexibility to manage non-critical and dynamic data related to movies, allowing for efficient data retrieval and management.
